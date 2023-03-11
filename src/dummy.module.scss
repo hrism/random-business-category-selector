@@ -1,0 +1,14 @@
+$color: #e30;
+$dummy-test-color: #d0d;
+
+.test {
+    color: $color;
+}
+
+.dummy-text {
+    color: $dummy-test-color;
+}
+
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif !important;
+}
